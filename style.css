@@ -1,0 +1,16 @@
+button{
+    border-color: aliceblue;
+    border-radius: 20px;
+    background-color: red;
+   margin: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   height: 50px;
+   width: 300px;
+   
+
+}
+ a{
+    text-decoration: none;
+    text-transform: none;
+    color: aliceblue;
+}
